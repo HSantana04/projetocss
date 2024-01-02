@@ -1,0 +1,16 @@
+body{
+    background-image: url(imagens/fundo.png);
+    width: 900px;
+}
+#cabecalho{
+    background-color: rgb(172, 155, 135);
+    width: 840px;
+    padding: 30px;
+    font-size: 28px;
+    color: blueviolet;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#texto{
+    background-color: antiquewhite;
+    padding: 10px;
+}
